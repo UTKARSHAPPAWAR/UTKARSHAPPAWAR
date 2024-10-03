@@ -62,6 +62,9 @@
 ---
 
 ## 🌐 Connect with Me
-- **GitHub**: [UTKARSHAPPAWAR](https://github.com/UTKARSHAPPAWAR/)
-- **LinkedIn**: [Utkarsha Pawar](https://www.linkedin.com/in/utkarshapawar/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarshapawar/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Utkarshappawar)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/utkarshapawar2299)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/utkarsha.pawar.7545)
 
