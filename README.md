@@ -7,7 +7,7 @@
 ---
 
 ## 📚 About Me
-- 🎓 Currently pursuing MTech in **Computer Engineering** at **Veermata Jijabai Technological Institute (VJTI)**, Mumbai
+- 🎓 Completed MTech in **Computer Engineering** at **Veermata Jijabai Technological Institute (VJTI)**, Mumbai
 - 🎓 MBA in **Human Resource Management** from **K. P. B. Hinduja College of Management Studies (YCMOU)**, Mumbai
 - 💼 Worked as a **Lecturer** and an **Intern**, with experiences in **WebGIS Dashboards**, **Satellite Data Analytics**, and **Educational Content Creation**.
 
